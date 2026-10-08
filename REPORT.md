@@ -1,9 +1,7 @@
-**Designing artificial intelligence & implementing smart technologies**   
-**Assignment 1**
+# **Designing artificial intelligence & implementing smart technologies**   
+# **Assignment 1**
 
-# **Madrid Bargain Finder**  
-
-# **using Idealista Data**
+# **Madrid Bargain Finder using Idealista Data**
 
 Name: Allan Stalker  
 Student ID: 19004  
